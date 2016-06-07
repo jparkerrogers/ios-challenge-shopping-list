@@ -11,6 +11,8 @@
 		1A4A23221CCA8D2C003A4350 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A4A23201CCA8D2C003A4350 /* Main.storyboard */; };
 		1A4A23241CCA8D2C003A4350 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A4A23231CCA8D2C003A4350 /* Assets.xcassets */; };
 		1A4A23271CCA8D2C003A4350 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A4A23251CCA8D2C003A4350 /* LaunchScreen.storyboard */; };
+		AC5CCB481CEECBDE00DD8F3B /* PracticeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5CCB471CEECBDE00DD8F3B /* PracticeTableViewCell.swift */; };
+		AC5CCB4A1CEECBF100DD8F3B /* PracticeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5CCB491CEECBF100DD8F3B /* PracticeTableViewController.swift */; };
 		AC9744821CCABA9900CAD576 /* ItemController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9744811CCABA9900CAD576 /* ItemController.swift */; };
 		AC9744841CCABABD00CAD576 /* ItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9744831CCABABC00CAD576 /* ItemTableViewController.swift */; };
 		AC9744861CCABACC00CAD576 /* ItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9744851CCABACC00CAD576 /* ItemTableViewCell.swift */; };
@@ -27,6 +29,8 @@
 		1A4A23231CCA8D2C003A4350 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A4A23261CCA8D2C003A4350 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A4A23281CCA8D2C003A4350 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC5CCB471CEECBDE00DD8F3B /* PracticeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PracticeTableViewCell.swift; sourceTree = "<group>"; };
+		AC5CCB491CEECBF100DD8F3B /* PracticeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PracticeTableViewController.swift; sourceTree = "<group>"; };
 		AC9744811CCABA9900CAD576 /* ItemController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemController.swift; sourceTree = "<group>"; };
 		AC9744831CCABABC00CAD576 /* ItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemTableViewController.swift; sourceTree = "<group>"; };
 		AC9744851CCABACC00CAD576 /* ItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemTableViewCell.swift; sourceTree = "<group>"; };
@@ -76,6 +80,8 @@
 				AC97448A1CCABAFA00CAD576 /* View */,
 				1A4A231C1CCA8D2C003A4350 /* AppDelegate.swift */,
 				1A4A23201CCA8D2C003A4350 /* Main.storyboard */,
+				AC5CCB491CEECBF100DD8F3B /* PracticeTableViewController.swift */,
+				AC5CCB471CEECBDE00DD8F3B /* PracticeTableViewCell.swift */,
 				1A4A23231CCA8D2C003A4350 /* Assets.xcassets */,
 				1A4A23251CCA8D2C003A4350 /* LaunchScreen.storyboard */,
 				1A4A23281CCA8D2C003A4350 /* Info.plist */,
@@ -192,6 +198,8 @@
 				AC9744A71CCADFAA00CAD576 /* Item.swift in Sources */,
 				AC9744A31CCADF1500CAD576 /* Item.xcdatamodeld in Sources */,
 				AC9744841CCABABD00CAD576 /* ItemTableViewController.swift in Sources */,
+				AC5CCB481CEECBDE00DD8F3B /* PracticeTableViewCell.swift in Sources */,
+				AC5CCB4A1CEECBF100DD8F3B /* PracticeTableViewController.swift in Sources */,
 				1A4A231D1CCA8D2C003A4350 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
